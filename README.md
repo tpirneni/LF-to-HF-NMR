@@ -3,4 +3,4 @@ Code utilized in the manuscript: Neural Networks for Conversion of Simulated NMR
 _____________________________________________________________________________________________________________________________________
 
 
-The directory names in the code will need to be modified to successfully run the code.
+The directory names in the code will need to be modified to successfully run the code on your system.
